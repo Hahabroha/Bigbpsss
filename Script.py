@@ -91,14 +91,11 @@ Nᴀᴍᴇ - {}"""
 
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀ"""
 
-    MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
-
-    SHORTLINK_INFO = """
-<b>──────「<a href=https://t.me/khandudon302> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a>
+    MELCOW_ENG = """<b>Hᴇʟʟᴏ {} Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ </b>"""
 
 Yᴏᴜ ᴄᴀɴ Eᴀʀɴ Mᴏɴᴇʏ Fʀᴏᴍ Tʜɪs Bᴏᴛ Uɴᴛɪʟ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟɪᴠᴇ.
 
-Wᴀɴᴛ ᴛᴏ Kɴᴏᴡ Hᴏᴡ? Fᴏʟʟᴏᴡ Tʜᴇsᴇ Sᴛᴇᴘs
+Wᴀɴᴛ ᴛᴏ Kɴᴏᴡ Hᴏᴡ Fᴏʟʟᴏᴡ Tʜᴇsᴇ Sᴛᴇᴘs
 
 sᴛᴇᴘ 𝟷 ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 1𝟶𝟶 ᴍᴇᴍʙᴇʀs
 
@@ -110,14 +107,14 @@ sᴛᴇᴘ 𝟸 ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://zx
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
 
-ᴀꜰᴛᴇʀ 5 ᴍɪɴᴜᴛᴇꜱ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡɪʟʟ ʙᴇ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴅᴇʟᴇᴛᴇᴅ
+ᴀꜰᴛᴇʀ ᴍɪɴᴜᴛᴇꜱ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡɪʟʟ ʙᴇ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴅᴇʟᴇᴛᴇᴅ
 
 ɪꜰ ʏᴏᴜ ᴅᴏ ɴᴏᴛ ꜱᴇᴇ ᴛʜᴇ ʀᴇǫᴜᴇsᴛᴇᴅ ᴍᴏᴠɪᴇ sᴇʀɪᴇs ꜰɪʟᴇ ʟᴏᴏᴋ ᴀᴛ ᴛʜᴇ ɴᴇxᴛ ᴘᴀɢᴇ"""
 
     SELECT = """
-MOVIES ➢ Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs"
+MOVIES Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs"
 
-SERIES ➢ Sᴇʟᴇᴄᴛ "Sᴇᴀsᴏɴs"
+SERIES Sᴇʟᴇᴄᴛ "Sᴇᴀsᴏɴs"
 
 Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛᴏɴ ᴀɴᴅ Cʟɪᴄᴋ "Sᴇɴᴅ Aʟʟ" Tᴏ ɢᴇᴛ Aʟʟ Fɪʟᴇ Lɪɴᴋs ɪɴ ᴀ Sɪɴɢʟᴇ ᴄʟɪᴄᴋ"""
 
@@ -130,7 +127,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 ᴇxᴀᴍᴘʟᴇ : Loki S01E01
 
-🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)"""
+ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)"""
 
     NORSLTS = """
 ★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
@@ -143,7 +140,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """ 
 <b>══════════════════
-🗂 {file_name}
+  {file_name}
 ═══════════════════ 
 Please Join Our Channel for new released...      
     <a href="https://t.me/hdlinks4uu"> 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 </a>"""
@@ -152,9 +149,9 @@ Please Join Our Channel for new released...     
 <b>Query: {query}
 IMDb Data:
 
-🏷 Title: <a href={url}>{title}</a>
-🎭 Genres: {genres}
-🌟 Rating: <a href={url}/ratings>{rating}</a> / 10</b>"""
+Title: <a href={url}>{title}</a>
+Genres: {genres}
+Rating: <a href={url}/ratings>{rating}</a> / 10</b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
@@ -180,11 +177,11 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
 
-📅 Dᴀᴛᴇ : <code>{}</code>
-⏰ Tɪᴍᴇ : <code>{}</code>
-🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
+Dᴀᴛᴇ : <code>{}</code>
+Tɪᴍᴇ : <code>{}</code>
+Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
+Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
     LOGO = """
- ____  ___ 🙂 ____ ____
+ ____  _______ ____
 """
