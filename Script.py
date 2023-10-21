@@ -1,26 +1,12 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ Aɴᴅ Eɴᴊᴏʏ 😍
-
-🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/KUSHALHK'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
-
-    HELP_TXT = """<b>Hᴇʏ {}
-Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
-
-🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/KUSHALHK'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
+"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/KUSHALHK>♀️Oᗯᑎᗴᖇ♀️</a></b>
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/TG_UPDATES1>♀️ᑌᑭᗪᗩTᗴՏ♀️</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/khandudon302>♀️Oᗯᑎᗴᖇ♀️</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/hdlinks4uu>♀️ᑌᑭᗪᗩTᗴՏ♀️</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
-
-    SOURCE_TXT = """
-<b>Tʜɪꜱ Bᴏᴛ Iꜱ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
-
-contact developer give source code 😊
-
-: <a href=https://github.com/Kushalhk/TG_BOTZ/tree/main>♀️ 𝐑𝐄𝐏𝐎 𝐋𝐈𝐍𝐊 ♀️</a></b>"""
-                  
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -44,18 +30,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 <code>[Button Text](buttonurl:https://t.me/TG_LINKS_CHANNEL)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
-
-    AUTOFILTER_TXT = """ʜᴇʟᴘ: <b>ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ</b>
-<b>ɴᴏᴛᴇ: Fɪʟᴇ Iɴᴅᴇx</b>
-1. ᴍᴀᴋᴇ ᴍᴇ ᴛʜᴇ ᴀᴅᴍɪɴ ᴏꜰ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ɪꜰ ɪᴛ'ꜱ ᴘʀɪᴠᴀᴛᴇ.
-2. ᴍᴀᴋᴇ ꜱᴜʀᴇ ᴛʜᴀᴛ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴅᴏᴇꜱ ɴᴏᴛ ᴄᴏɴᴛᴀɪɴꜱ ᴄᴀᴍʀɪᴘꜱ, ᴘᴏʀɴ ᴀɴᴅ ꜰᴀᴋᴇ ꜰɪʟᴇꜱ.
-3. ꜰᴏʀᴡᴀʀᴅ ᴛʜᴇ ʟᴀꜱᴛ ᴍᴇꜱꜱᴀɢᴇ ᴛᴏ ᴍᴇ ᴡɪᴛʜ Qᴜᴏᴛᴇꜱ. ɪ'ʟʟ ᴀᴅᴅ ᴀʟʟ ᴛʜᴇ ꜰɪʟᴇꜱ ɪɴ ᴛʜᴀᴛ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴍʏ ᴅʙ.
-
-<b>Nᴏᴛᴇ: AᴜᴛᴏFɪʟᴛᴇʀ</b>
-1. Aᴅᴅ ᴛʜᴇ ʙᴏᴛ ᴀs ᴀᴅᴍɪɴ ᴏɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
-2. Usᴇ /connect ᴀɴᴅ ᴄᴏɴɴᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ ᴛʜᴇ ʙᴏᴛ.
-3. Usᴇ /settings ᴏɴ ʙᴏᴛ's PM ᴀɴᴅ ᴛᴜʀɴ ᴏɴ AᴜᴛᴏFɪʟᴛᴇʀ ᴏɴ ᴛʜᴇ sᴇᴛᴛɪɴɢs ᴍᴇɴᴜ."""
-
+    
     URLSHORT_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝖴𝗋𝗅 𝗌𝗁𝗈𝗋𝗍𝗇𝖾𝗋
 <i><b>𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚜𝚑𝚘𝚛𝚝 𝚊 𝚞𝚛𝚕 </i></b>
 ➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
@@ -75,8 +50,6 @@ Do as you wish with telegra.ph module!
 
 • This Command Is Available in goups and pms
 • This Command Can be used by everyone
-
-• Contact Owner: @KUSHALHK"""
 
     SONG_TXT = """<b>ꜱᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅ ᴍᴏᴅᴜʟᴇ</b>
     
@@ -114,7 +87,7 @@ Do as you wish with telegra.ph module!
 <code>/mp4 https://youtu.be/*******</code>
 <code>/video https://youtu.be/*****</code>  
 
-• Owner: @KUSHALHK"""
+• Owner: @KHANDUDON302"""
 
     KANG_TXT = """
 𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐰𝐧 𝐒𝐭𝐢𝐜𝐤𝐞𝐫 𝐀𝐧𝐝 𝐒𝐭𝐢𝐜𝐤𝐞𝐫 𝐏𝐚𝐜𝐤
@@ -239,7 +212,7 @@ Nᴀᴍᴇ - {}"""
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
     SHORTLINK_INFO = """
-<b>──────「<a href=https://t.me/TG_UPDATES1/336> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」──────
+<b>──────「<a href=https://t.me/khandudon302> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」──────
 
 Yᴏᴜ ᴄᴀɴ Eᴀʀɴ Mᴏɴᴇʏ Fʀᴏᴍ Tʜɪs Bᴏᴛ Uɴᴛɪʟ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟɪᴠᴇ.
 
@@ -247,13 +220,9 @@ Wᴀɴᴛ ᴛᴏ Kɴᴏᴡ Hᴏᴡ? Fᴏʟʟᴏᴡ Tʜᴇsᴇ Sᴛᴇᴘs:-
 
 sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 1𝟶𝟶 ᴍᴇᴍʙᴇʀs.
 
-sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://tamizhmasters.net/ref/Kushal>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
-
-sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/TG_UPDATES1/336> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
+sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://zxlink.in/ref/arpexie16>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
 
 ➣ Yᴏᴜ ᴄᴀɴ ᴄᴏɴɴᴇᴄᴛ ᴀs ᴍᴀɴʏ ɢʀᴏᴜᴘ ʏᴏᴜ ʜᴀᴠᴇ.
-
-Any Doubts or Not Connecting? Contact Me </b>
 """
 
     REQINFO = """
@@ -294,10 +263,8 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 <b>══════════════════
 🗂 {file_name}
 ═══════════════════ 
-𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐇𝐄𝐑𝐄 👇
-╔══════════════════╗         
-    <a href="https://t.me/TG_LINKS_CHANNEL">🔱 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🔱</a>
-╚══════════════════╝</b>"""
+Please Join Our Channel for new released...      
+    <a href="https://t.me/hdlinks4uu"> 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 </a>"""
     
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
@@ -305,8 +272,6 @@ IMDb Data:
 
 🏷 Title: <a href={url}>{title}</a>
 🎭 Genres: {genres}
-📆 Year: <a href={url}/releaseinfo>{year}</a>
-⏱️ Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
 🌟 Rating: <a href={url}/ratings>{rating}</a> / 10</b>"""
     
     ALL_FILTERS = """
@@ -339,8 +304,5 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
     LOGO = """
- ____  ___    ____   __  ____  ____ 
-(_  _)/ __)  (  _ \ /  \(_  _)(__  )
-  )( ( (_ \   ) _ ((  O ) )(   / _/ 
- (__) \___/  (____/ \__/ (__) (____)
+ ____  ___ 🙂 ____ ____
 """
